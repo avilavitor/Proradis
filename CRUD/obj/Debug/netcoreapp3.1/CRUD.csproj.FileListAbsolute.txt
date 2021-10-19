@@ -1,0 +1,80 @@
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.csprojAssemblyReference.cache
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD_MarkupCompile.cache
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD_MarkupCompile.lref
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.exe
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.deps.json
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.json
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.dev.json
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.g.resources
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfoInputs.cache
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfo.cs
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CopyComplete
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.genruntimeconfig.cache
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\Registrar.g.cs
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\Registrar.baml
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\ConsultaPessoa.g.cs
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\obj\Debug\netcoreapp3.1\ConsultaPessoa.baml
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\VitorAvila\source\repos\CRUD\CRUD\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\CRUD.exe
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\CRUD.deps.json
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.json
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.dev.json
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\ControlzEx.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\MahApps.Metro.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\MaterialDesignThemes.MahApps.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\de\MahApps.Metro.resources.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.csprojAssemblyReference.cache
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD_MarkupCompile.cache
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD_MarkupCompile.lref
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.g.resources
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfoInputs.cache
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfo.cs
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CopyComplete
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.genruntimeconfig.cache
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\VitorAvila\source\repos\CRUD - Copia\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache

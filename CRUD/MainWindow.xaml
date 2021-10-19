@@ -1,0 +1,122 @@
+﻿<Window x:Class="CRUD.MainWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        mc:Ignorable="d" Title="Proradis - Exercício #1 - C#" 
+        Height="575" Width="600" 
+        WindowStartupLocation="CenterScreen">
+
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+
+            <!--Cabeçalho-->
+            <RowDefinition Height="75"></RowDefinition>
+            <!--Menu de Botões-->
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <materialDesign:ColorZone Grid.Row="0" Mode="PrimaryDark" Padding="8" Height="70">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Radiation" VerticalAlignment="Center" Height="60" Width="60" HorizontalAlignment="Center" />
+                    <TextBlock VerticalAlignment="Center" Margin="10 0 0 0" FontSize="30">Exercício Proradis</TextBlock>
+                </StackPanel>
+            </DockPanel>
+        </materialDesign:ColorZone>
+
+        <Grid Grid.Row="1" Margin="10,10,10,4">
+
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                
+
+                <TextBlock Background="White" Margin="6,-9,0,0" Foreground="DarkSlateBlue" HorizontalAlignment="Left" VerticalAlignment="Top" Panel.ZIndex="1" FontSize="12">Instruções
+                </TextBlock>
+
+                <Border Grid.Row="0" BorderThickness="1" BorderBrush="DarkSlateBlue" >
+
+                    <Grid Height="Auto">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+
+                        </Grid.RowDefinitions>
+
+                        <Grid Grid.Row="1" Margin="0,10,0,0">
+
+                                <Grid Grid.Row="0" Margin="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"></RowDefinition>
+                                    <RowDefinition Height="*"></RowDefinition>
+                                    <RowDefinition Height="*"></RowDefinition>
+                                    <RowDefinition Height="*"></RowDefinition>
+                                </Grid.RowDefinitions>
+
+                                <TextBlock Grid.Row="0">- Crie um aplicativo que leia o arquivo ‘input.csv’ providenciado.</TextBlock>
+                                <TextBlock Grid.Row="1">- Calcule a média aritmética de idade por estado.</TextBlock>
+                                <TextBlock Grid.Row="2">- Monte um JSON com os resultados de acordo com o exemplo.</TextBlock>
+                                <TextBlock Grid.Row="3">- Envie o JSON criado via POST para o endpoint: https://zeit-endpoint.brmaeji.now.sh/api/avg</TextBlock>    
+
+                            </Grid>
+                            </Grid>
+                        </Grid>
+
+                </Border>
+
+                <TextBlock Grid.Row="1"  
+                           Background="White" 
+                           Margin="6,0,0,0" 
+                           Foreground="DarkSlateBlue"
+                           HorizontalAlignment="Left" 
+                           VerticalAlignment="Top" Panel.ZIndex="1" FontSize="12">Campo de Teste
+                </TextBlock>
+
+                <Border Grid.Row="1" BorderThickness="1" Margin="0,7" BorderBrush="DarkSlateBlue" Padding="0">
+
+                    <Grid Height="Auto">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="Auto"></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <Grid Grid.Row="1" Margin="0,10,0,0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <Grid Grid.Column="0">
+              
+                                <Grid Grid.Row="0" Margin="0,0,0,7">
+
+                                    <Button  Click="Button_ClickTeste" 
+                                             HorizontalAlignment="Center" 
+                                             Height="190" 
+                                             Width="230" 
+                                             Background="DarkSlateBlue" 
+                                             BorderThickness="5">
+                                        <StackPanel>
+                                            <materialDesign:PackIcon Kind="RocketLaunch" Height="100" Width="100" HorizontalAlignment="Center" />
+                                            <TextBlock FontSize="20">Testar Envio de CSV</TextBlock>
+                                        </StackPanel>
+                                    </Button>
+
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Border>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
